@@ -1,15 +1,15 @@
  1)Histogram of Math Scores
 
-	Analysis: The distribution of math scores is slightly skewed to the right, with the majority of scores falling between 60 and 80.
+	Analysis: The dispersion of math scores is marginally skewed to the correct, with the larger part of scores falling between 60 and 80.
 
 
-	The histogram shows the distribution of math scores. The majority of students score between 60 and 80, with a peak around 70. The distribution is roughly normal, with a slight skew to the left. This visualization allows us to see the overall distribution of math scores and identify any patterns or outliers.
+	The histogram appears the dispersion of math scores. The larger part of understudies score between 60 and 80, with a top around 70. The dispersion is generally typical, with a slight skew to the cleared out. This visualization permits us to see the in general dispersion of math scores and distinguish any designs or exceptions.
 
 2)Visualization 2: Scatterplot of Math and Reading Scores
 
- Analysis: There is a positive correlation between math and reading scores, indicating that students who perform well in math also tend to perform well in reading.
-	
-	The scatterplot shows the relationship between math scores and reading scores. We can see that there is a positive correlation between the two, with students who score higher in math also tending to score higher in reading. The dots are spread out fairly evenly across the graph, indicating that there is no clear grouping or clustering of scores. This visualization allows us to identify any relationship or patterns between two variables.
+ Analysis: There's a positive relationship between math and perusing scores, showing that understudies who perform well in math moreover tend to perform well in reading.
+
+ The scatterplot appears the relationship between math scores and reading scores. We are able see that there's a positive relationship between the two, with understudies who score higher in math too tending to score higher in perusing. The dabs are spread out reasonably equally over the chart, showing that there's no clear gathering or clustering of scores. This visualization permits us to distinguish any relationship or designs between two factors.
 
 3)Visualization 3: Barplot of Test Preparations by Gender
 
