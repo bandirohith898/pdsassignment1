@@ -1,0 +1,25 @@
+Stage 1: Data Preparation and Cleaning
+
+Perform data cleaning and preprocessing steps (e.g., removing missing values, correcting data types, scaling, etc.)
+Save the cleaned data to a new file.
+
+Stage 2: Exploratory Data Analysis and Visualization
+
+Load the cleaned data from the file created in Stage 1
+Perform exploratory data analysis (e.g., summary statistics, data distributions, correlations, etc.)
+Visualize the data using plots (e.g., scatter plots, histograms, box plots, etc.)
+
+1)The histogram of Age appears that the lion's share of the members are between 20 and 50 a long time ancient, with the most elevated recurrence within the 30s age bunch. There are relatively less members within the age bunches beneath 20 or over 60.
+
+2)The scatter plot of Hold quality versus Weight appears a positive relationship between the two factors, demonstrating that members with higher weights tend to have more grounded grasps. There are some exceptions, such as a member with a grasp quality of around 20 in spite of weighing over 150 pounds.
+
+3)The bar chart of Slightness status appears that somewhat over half of the members are not considered slight, whereas somewhat beneath half are. This proposes that the test may not be agent of the common populace, as slightness is by and large more common in more seasoned age bunches.
+
+4)The box plot of Stature assembled by Feebleness status appears that, on normal, members who are considered slight tend to be shorter than those who are not. Be that as it may, there's some cover within the conveyances, and the distinction in implies may not be factually critical. There are too a few exceptions, such as a non-frail member who is less than 65 inches tall and a slight member who is over 71 inches tall.
+
+Stage 3: Modeling and Prediction
+
+Load the cleaned data from the file created in Stage 1
+Split the data into training and testing sets
+Train a machine learning model on the training set
+Evaluate the model on the testing set using relevant metrics (e.g., accuracy, precision, recall, F1 score, etc.)
