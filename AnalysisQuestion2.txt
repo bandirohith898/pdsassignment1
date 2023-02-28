@@ -1,0 +1,27 @@
+ 1)Histogram of Math Scores
+
+	Analysis: The distribution of math scores is slightly skewed to the right, with the majority of scores falling between 60 and 80.
+
+
+	The histogram shows the distribution of math scores. The majority of students score between 60 and 80, with a peak around 70. The distribution is roughly normal, with a slight skew to the left. This visualization allows us to see the overall distribution of math scores and identify any patterns or outliers.
+
+2)Visualization 2: Scatterplot of Math and Reading Scores
+
+ Analysis: There is a positive correlation between math and reading scores, indicating that students who perform well in math also tend to perform well in reading.
+	
+	The scatterplot shows the relationship between math scores and reading scores. We can see that there is a positive correlation between the two, with students who score higher in math also tending to score higher in reading. The dots are spread out fairly evenly across the graph, indicating that there is no clear grouping or clustering of scores. This visualization allows us to identify any relationship or patterns between two variables.
+
+3)Visualization 3: Barplot of Test Preparations by Gender
+
+
+ Analysis: Females are more likely to complete a test preparation course than males.
+
+Visualization 4: Boxplot of Math Scores by Ethnicity
+
+
+Analysis: There are slight differences in math scores among different ethnicities, with Group E having the highest median score and Group A having the lowest.
+
+Visualization 5: Barplot of Parental Education by Lunch Type
+
+
+Analysis: Students who receive standard lunch are more likely to have parents with higher levels of education than those who receive free/reduced lunch.
